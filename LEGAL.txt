@@ -1,0 +1,27 @@
+Unless Explicitly Stated Otherwise:
+All Code In This Project Is Under The BSD-2 License &
+All Content (Text, Pictures, Videos, Assets, etc) Are
+Under (Unless Explicitly Stated Otherwise, Below) The
+Creative-Common Attribibution or 'CC-BY' 4.0 License.
+
+=CREDITS=
+
+- The BB model is based off Valangdance's CC-BY 4.0
+work, ''' "Baby 2" Rig ( Rigify ) '''. And a link to
+which can be found below:
+
+https://blendswap.com/blend/26331
+
+- A lot miscellaneous assets this project uses, even
+though though they're under the CC-BY 4.0 License,
+originated from  the public-domain (CC0) game asset
+collective 'Kenney' a link to which can be found below:
+
+https://www.kenney.nl/assets
+
+- Most of the music this project uses is by the
+Audionautix project and is licensed under the CC-BY 
+4.0 -- for those tracks and many others, you can 
+use the link below:
+
+https://audionautix.com/free-music/ 
